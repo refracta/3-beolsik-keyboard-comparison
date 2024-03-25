@@ -9,6 +9,7 @@
 ## Ⅱ. 이론적 배경 (Theory)
 ### 1. 두벌식 자판의 개요
 ![](https://github.com/refracta/3-beolsik-keyboard-comparison/assets/58779799/c7bce719-8fcc-4eb0-bb44-4bb6ebb78957)
+
 왼손에는 자음, 오른손에는 모음을 배치하여 자음-모음 또는 자음-모음-자음 순서대로 한글 한 글자를 입력하도록 한 자판.
 
 #### 장점
