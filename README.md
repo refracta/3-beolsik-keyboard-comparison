@@ -88,6 +88,7 @@ ex) 모아치기로 꽈배기를 치면
 ### 5. 시뮬레이션 프로그램 제작
 ![](https://github.com/refracta/3-beolsik-keyboard-comparison/assets/58779799/e5e21572-e0fc-41ed-bed7-d187759f94b8)
 ![](https://github.com/refracta/3-beolsik-keyboard-comparison/assets/58779799/d7da376b-59ce-4929-acbb-e7e912810b0c)
+
 플래시와 AS3 프로그래밍 언어를 이용하여 위와 같이 두벌식과 세벌식의 가상 입력을 시뮬레이팅 해주는 시뮬레이션 프로그램을 제작하였다.
 
 ## Ⅳ. 실험 결과 (Result)
